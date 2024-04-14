@@ -1,1 +1,1 @@
-# html-CSS-portfolio
+# HTML-CSS-Portfolio
